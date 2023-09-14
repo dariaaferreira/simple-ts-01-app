@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-ts-01-app/static/css/main.e6c13ad2.css",
+    "main.js": "/simple-ts-01-app/static/js/main.5578050e.js",
+    "index.html": "/simple-ts-01-app/index.html",
+    "main.e6c13ad2.css.map": "/simple-ts-01-app/static/css/main.e6c13ad2.css.map",
+    "main.5578050e.js.map": "/simple-ts-01-app/static/js/main.5578050e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5578050e.js"
+  ]
+}
